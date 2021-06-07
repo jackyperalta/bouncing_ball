@@ -20,7 +20,7 @@ This is a list of things you need to use the program and how to install them.
 
 * git
 
-```sh
+```
 
 sudo apt-get install git-all
 
@@ -28,7 +28,7 @@ sudo apt-get install git-all
 
 * libraries
 
-```sh
+```
 
 sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
 
@@ -38,7 +38,7 @@ sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev
 
 1. Clone the repo
 
-```sh
+```
 
 git clone https://github.com/jackyperalta/bouncing_ball.git
 
@@ -48,7 +48,7 @@ git clone https://github.com/jackyperalta/bouncing_ball.git
 
 3. Run Makefile
 
-```sh
+```
 
 make clean
 
@@ -58,8 +58,8 @@ make
 
 4. Run the program
 
-```sh
+```
 
-./project.cpp
+./project
 
 ```
