@@ -1,16 +1,10 @@
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
-
-  
-
-![Final gif]([https://github.com/jackyperalta/bouncing_ball/final.gif)
-
 
 This is a rendering of a bouncing ball in OpenGL. My main contribution to project.cpp was the following: creating the sphere, developing the sphere's vertical movement and squash & stretch effect (animation), applying the spherical texture map and specular highlights.
 
-For a progress timeline and better documentation of this project, visit my project's website [here](https://cs.csub.edu/~jperaltadomi/3480/).
+For a progress timeline and the documentation of this project, visit my project's website [here](https://cs.csub.edu/~jperaltadomi/3480/).
 
+<img src="final.gif" width="150" height="300">
 
 ### Built With
 
